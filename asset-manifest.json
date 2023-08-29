@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gym.errorop.com/static/css/main.7cc72355.css",
-    "main.js": "/gym.errorop.com/static/js/main.0ec936a4.js",
-    "static/js/787.c220ea94.chunk.js": "/gym.errorop.com/static/js/787.c220ea94.chunk.js",
-    "index.html": "/gym.errorop.com/index.html",
-    "main.7cc72355.css.map": "/gym.errorop.com/static/css/main.7cc72355.css.map",
-    "main.0ec936a4.js.map": "/gym.errorop.com/static/js/main.0ec936a4.js.map",
-    "787.c220ea94.chunk.js.map": "/gym.errorop.com/static/js/787.c220ea94.chunk.js.map"
+    "main.css": "/static/css/main.7cc72355.css",
+    "main.js": "/static/js/main.bd146d43.js",
+    "static/js/787.c220ea94.chunk.js": "/static/js/787.c220ea94.chunk.js",
+    "index.html": "/index.html",
+    "main.7cc72355.css.map": "/static/css/main.7cc72355.css.map",
+    "main.bd146d43.js.map": "/static/js/main.bd146d43.js.map",
+    "787.c220ea94.chunk.js.map": "/static/js/787.c220ea94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cc72355.css",
-    "static/js/main.0ec936a4.js"
+    "static/js/main.bd146d43.js"
   ]
 }
