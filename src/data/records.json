@@ -1,0 +1,61 @@
+[
+    {
+        "id" : 1,
+        "Title" : "Chest + Triceps",
+        "exercise1" : "1.incline Smith machine press",
+        "exercise2" : "2.flat dumbbell press",
+        "exercise3" : "3.pec dec fly",
+        "exercise4" : "4.pullover",
+        "exercise5" : "5.rope extension",
+        "exercise6" : "6.single hand dumbbell tricep extension"
+    },
+    {
+        "id" : 2,
+        "Title" : "Back + biceps",
+        "exercise1" : "1.bent over row",
+        "exercise2" : "2.t bar row",
+        "exercise3" : "3.close grip lat pull down",
+        "exercise4" : "4.single arm row",
+        "exercise5" : "5.biceps dumbell curls",
+        "exercise6" : "6.hammer curls"
+    },
+    {
+        "id" : 3,
+        "Title" : "Shoulder + forearms",
+        "exercise1" : "1.military press",
+        "exercise2" : "2.front raise",
+        "exercise3" : "3.side raise and face pull down ( superset)",
+        "exercise4" : "4.shrugs ",
+        "exercise5" : "5.reverse curls",
+        "exercise6" : "6.any one forearm exercise"
+    },
+    {
+        "id" : 4,
+        "Title" : "Legs",
+        "exercise1" : "1.squats",
+        "exercise2" : "2.leg press with low position of legs",
+        "exercise3" : "3.leg extensions",
+        "exercise4" : "4.hamstring curls",
+        "exercise5" : "5.calf raises"
+    },
+    {
+        "id" : 5,
+        "Title" : "Arms",
+        "exercise1" : "1.ez bar curls",
+        "exercise2" : "2.dumbell curls",
+        "exercise3" : "3.hammer curls",
+        "exercise4" : "4.concentration curls",
+        "exercise5" : "5.rope extension",
+        "exercise6" : "6.close grip bench press",
+        "exercise7" : "7.dips"
+    },
+    {
+        "id" : 6,
+        "Title" : "Abs + lower back",
+        "exercise1" : "1.sit ups",
+        "exercise2" : "2.leg raises",
+        "exercise3" : "3.plank",
+        "exercise4" : "4.good morning",
+        "exercise5" : "5.hyperextension"
+    }
+]
